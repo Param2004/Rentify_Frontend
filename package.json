@@ -10,8 +10,20 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.1.0",
+    "@react-native-community/geolocation": "^3.4.0",
+    "@react-navigation/bottom-tabs": "^7.0.7",
+    "@react-navigation/native": "^7.0.4",
+    "@react-navigation/stack": "^7.0.6",
+    "axios": "^1.7.7",
+    "jwt-decode": "^4.0.0",
     "react": "18.3.1",
-    "react-native": "0.76.4"
+    "react-native": "0.76.3",
+    "react-native-gesture-handler": "^2.21.2",
+    "react-native-safe-area-context": "^4.14.0",
+    "react-native-screens": "^4.3.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-webview": "^13.12.4"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
